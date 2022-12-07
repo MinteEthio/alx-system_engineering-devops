@@ -1,2 +1,2 @@
 #! /bin/bash 
-greap - E | -c 'bin' /etc/passwd
+greap - E -c 'bin' /etc/passwd
